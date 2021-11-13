@@ -1,0 +1,100 @@
+.card{
+    
+    box-shadow: 1px 1px 10px 10px rgba(17, 17, 17, 0.596);
+   
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+    border-radius: 8px;
+    margin-top: 5%;
+
+}
+
+.header{
+    color:rgb(168, 6, 6);
+    font-size: 1.4rem;
+    font-style: normal;
+    font-family:sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.form-control {
+    width:90%;
+    background-color: #f9faf9;
+    color: rgb(12, 12, 12);
+    padding: 14px 20px;
+    margin-top: 4px;
+    margin-bottom: 9px;
+    border: 2px solid rgba(128, 128, 128, 0.185);
+    border-radius: 4px;
+    cursor: pointer;
+    display:grid;
+}
+.btn{
+    background: linear-gradient(to right, hsla(0, 38%, 61%, 0.986), hsl(0, 95%, 29%));
+    width: 100%;
+    margin-left: auto;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 9px;
+    margin-top: 2rem;
+}
+
+.label {
+        /* Other styling... */
+        
+        font-size: smaller;font-family: Verdana, Geneva, Tahoma, sans-serif;color: rgb(102, 101, 101);
+        
+    }
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}    
+
+.btnn{
+ 
+  align-self:center;
+  margin:15px 0;
+  width: 2.5rem;
+  height: 2.5rem;
+  
+  align-items: flex-end;
+  position: relative;
+  left:90%;
+  
+ 
+}
+.box{
+  width: 2.5rem;
+  padding-left: .5rem;
+  padding-right: .5rem;
+  border-radius: 1rem; 
+  position:relative;
+  background-color: black;
+  cursor:pointer;
+ 
+}
+
+  
+  
+  input[type="checkbox"]{
+    display: none;
+  }
+  
+
+  
+  .scenary{
+
+    padding: 5px 10px 0px 10px;
+  
+  }
+    
